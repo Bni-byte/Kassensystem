@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Schulfest Kasse</title>
+  <style>
+    
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+    .hauptbereich {
+      display: grid;
+      grid-template-columns: 1fr 300px;
+      gap: 1rem;
+      padding: 1rem;
+      max-width: 100%;
+    }
+    header {
+      background-color: #2a9d8f;
+      color: white;
+      padding: 0.4rem 0;
+      text-align: center;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+      position: sticky;
+      top: 0;
+    }
+    h1 {
+      margin: 0;
+      font-weight: 700;
+      letter-spacing: 1px;
+      font-size: 2rem;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 1rem;
+      width: 100%;
+      align-items: stretch;
+    }
+    .container2 {
+      display: flex;
+    }
+    .auswahl {
+      max-height: 130px;
+      background: white;
+      border-radius: 10px;
+      padding: 0.75rem;
+      box-shadow: 0 4px 12px rgb(0 0 0 / 0.1);
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+      user-select: none;
+    }
+    @media (min-width: 800px) {
+      .auswahl {
+        max-height: 150px;
+      }
+      .container {
+        grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+      }
+    }
+    .auswahl:hover {
+      box-shadow: 0 8px 20px rgb(0 0 0 / 0.15);
+    }
+    h2 {
+      margin: 0 0 10px;
+      font-size: 1.2em;
+    }
+    img {
+      max-width: 100px;
+      max-height: 80px;
+      border-radius: 5px;
+    }
+    #bild {
+      height: 100px;
+    }
+    p {
+      font-weight: 600;
+      font-size: 1.1rem;
+      color: #e76f51;
+      margin: 0;
+      bottom: 0px;
+    }
+    .liste {
+      flex: 1;
+      background: white;
+      border-radius: 10px;
+      padding: 1rem;
+      box-shadow: 0 4px 12px rgb(0 0 0 / 0.1);
+      max-height: 80vh;
+      overflow-x: hidden;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      position: sticky;
+      top: 10vh;
+    }
+    h3 {
+      margin-top: 0;
+      color: #264653;
+      border-bottom: 2px solid #2a9d8f;
+      padding-bottom: 0.5rem;
+    }
+    .liste ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      flex-grow: 1;
+    }
+    .liste li {
+      padding: 0.5rem 0;
+      border-bottom: 1px solid #ddd;
+      font-weight: 600;
+      font-size: 1.1rem;
+      color: #333;
+      display: flex;
+      justify-content: space-between;
+    }
+    .liste .gesamt {
+      font-weight: 700;
+      font-size: 1.3rem;
+      margin-top: auto;
+      color: #2a9d8f;
+      border-top: 2px solid #2a9d8f;
+      padding-top: 0.75rem;
+      text-align: right;
+    }
+  </style>
+</head>
+<body>
+  <header><h1>Schulfest Kassensystem</h1></header>
+  <div class="hauptbereich">
+  <div class="container2">
+  <div class="container">
+    <div class="auswahl" data-preis="1" id="bratwurst"><h2>Bratwurst</h2><div id="bild"><img src="bratwurst.png"></div><p>1€</p></div>
+    <div class="auswahl" data-preis="2" id="eis"><h2>Eis</h2><div id="bild"><img src="eis.png"></div><p>2€</p></div>
+    <div class="auswahl" data-preis="1.5" id="waffel"><h2>Waffel</h2><div id="bild"><img src="waffel.png"></div><p>1,50€</p></div>
+    <div class="auswahl" data-preis="1.5" id="kuchen"><h2>Kuchen</h2><div id="bild"><img src="kuchen.png"></div><p>1,50€</p></div>
+    <div class="auswahl" data-preis="1.5" id="pizza"><h2>Pizza</h2><div id="bild"><img src="pizza.png"></div><p>1,50€</p></div>
+    <div class="auswahl" data-preis="1.5" id="melone"><h2>Melone</h2><div id="bild"><img src="melone.png"></div><p>1,50€</p></div>
+    <div class="auswahl" data-preis="1.5" id="kaffee"><h2>Kaffee</h2><div id="bild"><img src="kaffee.png"></div><p>1,50€</p></div>
+    <div class="auswahl" data-preis="1" id="gedränke"><h2>Getränke</h2><div id="bild"><img src="flasche.png"></div><p>1€</p></div>
+    <!--...-->
+  </div>
+  </div>
+  <nav class="liste" id="liste">
+    <h3>Bestellung</h3>
+    <ul id="bestellliste"></ul>
+    <div class="gesamt" id="gesamtpreis">Gesamt: 0,00 €</div>
+  </nav>
+</div>
+</body>
+</html>
+
+<script>
+  let bestellung = {};
+
+  document.querySelectorAll('.auswahl').forEach(item => {
+    item.addEventListener('click', () => {
+      const id = item.id;
+      const preis = parseFloat(item.getAttribute('data-preis'));
+      if (bestellung[id]) {
+        bestellung[id].menge++;
+      } else {
+        bestellung[id] = { menge: 1, preis };
+      }
+      ausgabe();
+    });
+  });
+
+  function ausgabe() {
+    document.getElementById('bestellliste').innerHTML = '';
+    let gesamt = 0;
+      for (const id in bestellung) {
+        const menge = bestellung[id].menge;
+        const preis = bestellung[id].preis;
+        gesamt += menge * preis;
+
+        const li = document.createElement('li');
+        li.textContent = `${menge}x ${id.charAt(0).toUpperCase() + id.slice(1)}`;
+        document.createElement('span').textContent = (menge * preis).toFixed(2).replace('.', ',') + ' €';
+        li.appendChild(document.createElement('span')).textContent = ` ${(menge * preis).toFixed(2).replace('.', ',') + ' €'}`;
+        bestellliste.appendChild(li);
+      }
+      document.getElementById("gesamtpreis").textContent = `Gesamt: ${(gesamt).toFixed(2).replace('.', ',') + ' €'}`;
+  }
+  
+
+</script>
