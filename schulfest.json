@@ -1,1 +1,44 @@
-{"zeit":"2025-06-22T17:14:21-04:00","wert":38}
+[
+    {
+        "sache": "Kuchen",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "2025-06-22 08:37:10"
+    },
+    {
+        "sache": "Eis",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "2025-06-22 08:37:10"
+    },
+    {
+        "sache": "Kaffee",
+        "menge": "4",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-22 08:37:10"
+    },
+    {
+        "sache": "Bratwurst",
+        "menge": "2",
+        "preis": "3",
+        "uhrzeit": "2025-06-22 09:53:16"
+    },
+    {
+        "sache": "Cola",
+        "menge": "2",
+        "preis": "1",
+        "uhrzeit": "2025-06-22 09:53:16"
+    },
+    {
+        "sache": "Tee",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "2025-06-22 11:02:29"
+    },
+    {
+        "sache": "Eis",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "2025-06-22 11:03:11"
+    }
+]
