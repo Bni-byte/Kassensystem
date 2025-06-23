@@ -16,5 +16,17 @@
         "menge": "1",
         "preis": "1",
         "uhrzeit": "0000-00-00"
+    },
+    {
+        "sache": "Melone",
+        "menge": "1",
+        "preis": "0.75",
+        "uhrzeit": "2025-06-23"
+    },
+    {
+        "sache": "Bratwurst",
+        "menge": "1",
+        "preis": "3",
+        "uhrzeit": "2025-06-23"
     }
 ]
