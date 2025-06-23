@@ -1,8 +1,20 @@
 [
     {
-        "sache": "Waffel",
-        "menge": "2",
-        "preis": "2",
-        "uhrzeit": "2025-06-23 06:14:13"
+        "sache": "Bratwurst",
+        "menge": "3",
+        "preis": "3",
+        "uhrzeit": "0000-00-00"
+    },
+    {
+        "sache": "Sprite",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "0000-00-00"
+    },
+    {
+        "sache": "Fanta",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "0000-00-00"
     }
 ]
