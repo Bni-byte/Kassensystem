@@ -1,68 +1,236 @@
 [
     {
-        "sache": "Kuchen",
+        "sache": "gedränke",
         "menge": "1",
         "preis": "1",
-        "uhrzeit": "2025-06-22 08:37:10"
+        "uhrzeit": "2025-06-21 16:43:32"
     },
     {
-        "sache": "Eis",
+        "sache": "kaffee",
         "menge": "1",
-        "preis": "1",
-        "uhrzeit": "2025-06-22 08:37:10"
-    },
-    {
-        "sache": "Kaffee",
-        "menge": "4",
         "preis": "1.5",
-        "uhrzeit": "2025-06-22 08:37:10"
+        "uhrzeit": "2025-06-21 16:43:32"
     },
     {
-        "sache": "Bratwurst",
-        "menge": "2",
-        "preis": "3",
-        "uhrzeit": "2025-06-22 09:53:16"
+        "sache": "melone",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-21 16:43:32"
     },
     {
-        "sache": "Cola",
+        "sache": "pizza",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-21 16:44:06"
+    },
+    {
+        "sache": "bratwurst",
+        "menge": "3",
+        "preis": "1",
+        "uhrzeit": "2025-06-21 16:44:41"
+    },
+    {
+        "sache": "melone",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-21 16:44:41"
+    },
+    {
+        "sache": "gedränke",
+        "menge": "3",
+        "preis": "1",
+        "uhrzeit": "2025-06-21 16:44:41"
+    },
+    {
+        "sache": "gedränke",
         "menge": "2",
         "preis": "1",
-        "uhrzeit": "2025-06-22 09:53:16"
+        "uhrzeit": "2025-06-21 16:51:58"
     },
     {
-        "sache": "Tee",
+        "sache": "pizza",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-21 16:52:26"
+    },
+    {
+        "sache": "melone",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-21 16:52:26"
+    },
+    {
+        "sache": "kaffee",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-21 16:52:26"
+    },
+    {
+        "sache": "gedränke",
         "menge": "1",
         "preis": "1",
-        "uhrzeit": "2025-06-22 11:02:29"
+        "uhrzeit": "2025-06-21 16:55:09"
     },
     {
-        "sache": "Eis",
+        "sache": "gedränke",
         "menge": "1",
         "preis": "1",
-        "uhrzeit": "2025-06-22 11:03:11"
+        "uhrzeit": "2025-06-21 16:55:52"
     },
     {
-        "sache": "Bratwurst",
-        "menge": "10",
-        "preis": "3",
-        "uhrzeit": "2025-06-22 14:32:35"
+        "sache": "getränke",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "2025-06-21 16:56:03"
     },
     {
-        "sache": "Bratwurst",
-        "menge": "4",
-        "preis": "3",
-        "uhrzeit": "2025-06-22 15:08:45"
-    },
-    {
-        "sache": "Melone",
-        "menge": "4",
-        "preis": "0.75",
-        "uhrzeit": "2025-06-22 15:10:31"
+        "sache": "getränke",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "2025-06-21 16:57:28"
     },
     {
         "sache": "Bratwurst",
         "menge": "3",
         "preis": "3",
-        "uhrzeit": "2025-06-22 15:10:31"
+        "uhrzeit": "2025-06-21 17:19:51"
+    },
+    {
+        "sache": "Melone",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-21 17:19:51"
+    },
+    {
+        "sache": "Tee",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "2025-06-21 17:26:10"
+    },
+    {
+        "sache": "Waffel",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "2025-06-21 23:05:50"
+    },
+    {
+        "sache": "Tee",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "2025-06-21 23:06:45"
+    },
+    {
+        "sache": "Kaffee",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-21 23:06:45"
+    },
+    {
+        "sache": "Melone",
+        "menge": "1",
+        "preis": "0.75",
+        "uhrzeit": "2025-06-21 23:06:45"
+    },
+    {
+        "sache": "Kaffee",
+        "menge": "7",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-21 23:06:59"
+    },
+    {
+        "sache": "Tee",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "2025-06-21 23:59:05"
+    },
+    {
+        "sache": "Kaffee",
+        "menge": "2",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-21 23:59:05"
+    },
+    {
+        "sache": "Eis",
+        "menge": "3",
+        "preis": "1",
+        "uhrzeit": "2025-06-21 23:59:17"
+    },
+    {
+        "sache": "Kuchen",
+        "menge": "6",
+        "preis": "1",
+        "uhrzeit": "2025-06-21 23:59:17"
+    },
+    {
+        "sache": "Kaffee",
+        "menge": "19",
+        "preis": "1.5",
+        "uhrzeit": "2025-06-22 00:08:18"
+    },
+    {
+        "sache": "Waffel",
+        "menge": "4",
+        "preis": "2",
+        "uhrzeit": "2025-06-22 00:10:20"
+    },
+    {
+        "sache": "Pizza",
+        "menge": "2",
+        "preis": "1",
+        "uhrzeit": "2025-06-22 00:10:20"
+    },
+    {
+        "sache": "Melone",
+        "menge": "1",
+        "preis": "0.75",
+        "uhrzeit": "2025-06-22 00:10:20"
+    },
+    {
+        "sache": "Eis",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "2025-06-22 00:12:57"
+    },
+    {
+        "sache": "Waffel",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "2025-06-22 00:12:57"
+    },
+    {
+        "sache": "Waffel",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "2025-06-22 19:40:09"
+    },
+    {
+        "sache": "Kuchen",
+        "menge": "2",
+        "preis": "1",
+        "uhrzeit": "2025-06-22 19:40:35"
+    },
+    {
+        "sache": "Bratwurst",
+        "menge": "1",
+        "preis": "3",
+        "uhrzeit": "2025-06-22 19:41:40"
+    },
+    {
+        "sache": "Bratwurst",
+        "menge": "1",
+        "preis": "3",
+        "uhrzeit": "2025-06-22 19:42:14"
+    },
+    {
+        "sache": "Melone",
+        "menge": "1",
+        "preis": "0.75",
+        "uhrzeit": "2025-06-22 19:43:44"
+    },
+    {
+        "sache": "Tee",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "2025-06-22 19:46:43"
     }
 ]
