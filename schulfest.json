@@ -22,5 +22,17 @@
         "menge": "1",
         "preis": "1",
         "uhrzeit": "17:13:39"
+    },
+    {
+        "sache": "Pizza",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "14:22:45"
+    },
+    {
+        "sache": "Waffel",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "14:22:45"
     }
 ]
