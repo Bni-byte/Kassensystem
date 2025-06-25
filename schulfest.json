@@ -52,5 +52,23 @@
         "menge": "1",
         "preis": "1",
         "uhrzeit": "20:39:00"
+    },
+    {
+        "sache": "Kuchen",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "20:39:01"
+    },
+    {
+        "sache": "Bratwurst",
+        "menge": "1",
+        "preis": "3",
+        "uhrzeit": "20:39:01"
+    },
+    {
+        "sache": "Eis",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "20:39:01"
     }
 ]
