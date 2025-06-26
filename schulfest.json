@@ -1024,5 +1024,17 @@
         "menge": "2",
         "preis": "1.5",
         "uhrzeit": "15:33:31"
+    },
+    {
+        "sache": "Kaffee",
+        "menge": "3",
+        "preis": "1.5",
+        "uhrzeit": "15:33:31"
+    },
+    {
+        "sache": "Fanta",
+        "menge": "2",
+        "preis": "2",
+        "uhrzeit": "15:33:37"
     }
 ]
