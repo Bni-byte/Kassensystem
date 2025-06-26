@@ -4198,5 +4198,17 @@
         "menge": "1",
         "preis": "2",
         "uhrzeit": "17:16:26"
+    },
+    {
+        "sache": "Bratwurst",
+        "menge": "1",
+        "preis": "3",
+        "uhrzeit": "17:16:27"
+    },
+    {
+        "sache": "Pizza (andere)",
+        "menge": "1",
+        "preis": "2.5",
+        "uhrzeit": "17:16:27"
     }
 ]
