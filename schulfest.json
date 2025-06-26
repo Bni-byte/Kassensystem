@@ -844,5 +844,17 @@
         "menge": "1",
         "preis": "2",
         "uhrzeit": "15:23:25"
+    },
+    {
+        "sache": "rote Brause",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "15:23:44"
+    },
+    {
+        "sache": "Cola",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "15:23:44"
     }
 ]
