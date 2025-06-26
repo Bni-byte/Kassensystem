@@ -3574,5 +3574,17 @@
         "menge": "3",
         "preis": "1.5",
         "uhrzeit": "16:47:36"
+    },
+    {
+        "sache": "Kuchen",
+        "menge": "3",
+        "preis": "1.5",
+        "uhrzeit": "16:47:37"
+    },
+    {
+        "sache": "Kuchen",
+        "menge": "6",
+        "preis": "1.5",
+        "uhrzeit": "16:49:13"
     }
 ]
