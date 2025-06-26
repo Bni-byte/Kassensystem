@@ -1210,5 +1210,17 @@
         "menge": "3",
         "preis": "1.5",
         "uhrzeit": "15:42:14"
+    },
+    {
+        "sache": "Bratwurst",
+        "menge": "2",
+        "preis": "3",
+        "uhrzeit": "15:42:39"
+    },
+    {
+        "sache": "Waffeln (Puderzucker)",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "15:42:39"
     }
 ]
