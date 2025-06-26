@@ -640,5 +640,17 @@
         "menge": "2",
         "preis": "3",
         "uhrzeit": "15:13:28"
+    },
+    {
+        "sache": "Wasser",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "15:14:03"
+    },
+    {
+        "sache": "Cola",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "15:14:03"
     }
 ]
