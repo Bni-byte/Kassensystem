@@ -4216,5 +4216,17 @@
         "menge": "1",
         "preis": "2",
         "uhrzeit": "17:18:51"
+    },
+    {
+        "sache": "Waffeln (Puderzucker)",
+        "menge": "2",
+        "preis": "2",
+        "uhrzeit": "17:19:10"
+    },
+    {
+        "sache": "Waffeln (Apfelmus-Nutella)",
+        "menge": "3",
+        "preis": "2.5",
+        "uhrzeit": "17:19:10"
     }
 ]
