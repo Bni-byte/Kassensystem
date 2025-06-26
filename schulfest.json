@@ -2476,5 +2476,17 @@
         "menge": "1",
         "preis": "1.5",
         "uhrzeit": "16:16:50"
+    },
+    {
+        "sache": "Waffeln (Apfelmus-Nutella)",
+        "menge": "2",
+        "preis": "2.5",
+        "uhrzeit": "16:16:57"
+    },
+    {
+        "sache": "Kaffee",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "16:16:57"
     }
 ]
