@@ -3724,5 +3724,11 @@
         "menge": "3",
         "preis": "2",
         "uhrzeit": "16:53:28"
+    },
+    {
+        "sache": "grüne Brause",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "16:54:14"
     }
 ]
