@@ -3952,5 +3952,17 @@
         "menge": "1",
         "preis": "2",
         "uhrzeit": "17:00:18"
+    },
+    {
+        "sache": "Cola",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "17:01:10"
+    },
+    {
+        "sache": "Fanta",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "17:01:10"
     }
 ]
