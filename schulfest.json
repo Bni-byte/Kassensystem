@@ -1912,5 +1912,17 @@
         "menge": "2",
         "preis": "2",
         "uhrzeit": "16:03:38"
+    },
+    {
+        "sache": "Pizza (Margherita)",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "16:04:10"
+    },
+    {
+        "sache": "Kuchen",
+        "menge": "3",
+        "preis": "1.5",
+        "uhrzeit": "16:04:10"
     }
 ]
