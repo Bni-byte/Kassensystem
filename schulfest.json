@@ -196,5 +196,11 @@
         "menge": "1",
         "preis": "3",
         "uhrzeit": "14:57:02"
+    },
+    {
+        "sache": "Kaffee",
+        "menge": "2",
+        "preis": "1.5",
+        "uhrzeit": "14:57:25"
     }
 ]
