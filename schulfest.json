@@ -1900,5 +1900,17 @@
         "menge": "1",
         "preis": "2",
         "uhrzeit": "16:03:23"
+    },
+    {
+        "sache": "Waffeln (Puderzucker)",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "16:03:38"
+    },
+    {
+        "sache": "Pizza (Margherita)",
+        "menge": "2",
+        "preis": "2",
+        "uhrzeit": "16:03:38"
     }
 ]
