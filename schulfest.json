@@ -2008,5 +2008,23 @@
         "menge": "1",
         "preis": "2.5",
         "uhrzeit": "16:05:50"
+    },
+    {
+        "sache": "Pizza (andere)",
+        "menge": "1",
+        "preis": "2.5",
+        "uhrzeit": "16:05:51"
+    },
+    {
+        "sache": "Waffeln (Puderzucker)",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "16:05:51"
+    },
+    {
+        "sache": "Waffeln (Apfelmus-Nutella)",
+        "menge": "1",
+        "preis": "2.5",
+        "uhrzeit": "16:05:51"
     }
 ]
