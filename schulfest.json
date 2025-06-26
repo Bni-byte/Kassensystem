@@ -4354,5 +4354,17 @@
         "menge": "1",
         "preis": "2",
         "uhrzeit": "17:58:57"
+    },
+    {
+        "sache": "Fanta",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "18:05:35"
+    },
+    {
+        "sache": "rote Brause",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "18:05:35"
     }
 ]
