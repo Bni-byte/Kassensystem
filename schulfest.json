@@ -4,5 +4,17 @@
         "menge": "3",
         "preis": "1",
         "uhrzeit": "00:27:48"
+    },
+    {
+        "sache": "Bratwurst",
+        "menge": "1",
+        "preis": "3",
+        "uhrzeit": "08:54:37"
+    },
+    {
+        "sache": "Cola",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "08:54:37"
     }
 ]
