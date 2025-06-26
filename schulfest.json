@@ -598,5 +598,11 @@
         "menge": "1",
         "preis": "2",
         "uhrzeit": "15:12:01"
+    },
+    {
+        "sache": "Fanta",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "15:12:09"
     }
 ]
