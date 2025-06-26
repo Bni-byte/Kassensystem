@@ -4078,5 +4078,29 @@
         "menge": "2",
         "preis": "1.5",
         "uhrzeit": "17:09:38"
+    },
+    {
+        "sache": "Waffeln (Puderzucker)",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "17:09:44"
+    },
+    {
+        "sache": "Pizza (Margherita)",
+        "menge": "2",
+        "preis": "2",
+        "uhrzeit": "17:09:44"
+    },
+    {
+        "sache": "Kuchen",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "17:09:44"
+    },
+    {
+        "sache": "Waffeln (Apfelmus-Nutella)",
+        "menge": "1",
+        "preis": "2.5",
+        "uhrzeit": "17:09:44"
     }
 ]
