@@ -2878,5 +2878,17 @@
         "menge": "1",
         "preis": "1.5",
         "uhrzeit": "16:25:12"
+    },
+    {
+        "sache": "Kuchen",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "16:25:30"
+    },
+    {
+        "sache": "Pizza (andere)",
+        "menge": "1",
+        "preis": "2.5",
+        "uhrzeit": "16:25:30"
     }
 ]
