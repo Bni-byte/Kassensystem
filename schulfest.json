@@ -3250,5 +3250,11 @@
         "menge": "3",
         "preis": "2.5",
         "uhrzeit": "16:38:20"
+    },
+    {
+        "sache": "Waffeln (Puderzucker)",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "16:38:27"
     }
 ]
