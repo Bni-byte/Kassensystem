@@ -3856,5 +3856,17 @@
         "menge": "2",
         "preis": "2.5",
         "uhrzeit": "16:58:03"
+    },
+    {
+        "sache": "Wasser",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "16:58:13"
+    },
+    {
+        "sache": "Sprite",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "16:58:13"
     }
 ]
