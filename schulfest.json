@@ -2584,5 +2584,17 @@
         "menge": "1",
         "preis": "2.5",
         "uhrzeit": "16:19:03"
+    },
+    {
+        "sache": "Bratwurst",
+        "menge": "3",
+        "preis": "3",
+        "uhrzeit": "16:19:04"
+    },
+    {
+        "sache": "Waffeln (Apfelmus-Nutella)",
+        "menge": "1",
+        "preis": "2.5",
+        "uhrzeit": "16:19:04"
     }
 ]
