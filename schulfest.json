@@ -2206,5 +2206,17 @@
         "menge": "1",
         "preis": "2",
         "uhrzeit": "16:10:43"
+    },
+    {
+        "sache": "Wasser",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "16:10:45"
+    },
+    {
+        "sache": "Fanta",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "16:10:45"
     }
 ]
