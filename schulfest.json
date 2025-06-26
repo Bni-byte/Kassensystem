@@ -4246,5 +4246,11 @@
         "menge": "1",
         "preis": "2",
         "uhrzeit": "17:19:37"
+    },
+    {
+        "sache": "Wasser",
+        "menge": "1",
+        "preis": "1",
+        "uhrzeit": "17:20:51"
     }
 ]
