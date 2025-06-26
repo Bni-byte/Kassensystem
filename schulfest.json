@@ -286,5 +286,11 @@
         "menge": "2",
         "preis": "1",
         "uhrzeit": "15:03:12"
+    },
+    {
+        "sache": "Bratwurst",
+        "menge": "1",
+        "preis": "3",
+        "uhrzeit": "15:03:30"
     }
 ]
