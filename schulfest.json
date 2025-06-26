@@ -4,5 +4,11 @@
         "menge": "2",
         "preis": "1",
         "uhrzeit": "14:21:48"
+    },
+    {
+        "sache": "Kuchen",
+        "menge": "2",
+        "preis": "1",
+        "uhrzeit": "14:23:48"
     }
 ]
