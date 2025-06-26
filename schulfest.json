@@ -3148,5 +3148,11 @@
         "menge": "2",
         "preis": "2.5",
         "uhrzeit": "16:34:01"
+    },
+    {
+        "sache": "rote Brause",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "16:34:12"
     }
 ]
