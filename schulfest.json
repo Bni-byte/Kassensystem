@@ -394,5 +394,11 @@
         "menge": "2",
         "preis": "2",
         "uhrzeit": "15:05:50"
+    },
+    {
+        "sache": "Sprite",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "15:06:08"
     }
 ]
