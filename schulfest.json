@@ -976,5 +976,11 @@
         "menge": "2",
         "preis": "1.5",
         "uhrzeit": "15:30:24"
+    },
+    {
+        "sache": "Kaffee",
+        "menge": "1",
+        "preis": "1.5",
+        "uhrzeit": "15:31:31"
     }
 ]
