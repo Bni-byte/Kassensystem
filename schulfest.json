@@ -1690,5 +1690,23 @@
         "menge": "1",
         "preis": "1.5",
         "uhrzeit": "15:58:40"
+    },
+    {
+        "sache": "Fanta",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "15:58:50"
+    },
+    {
+        "sache": "Sprite",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "15:58:50"
+    },
+    {
+        "sache": "Cola",
+        "menge": "2",
+        "preis": "2",
+        "uhrzeit": "15:58:50"
     }
 ]
