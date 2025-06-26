@@ -3010,5 +3010,11 @@
         "menge": "2",
         "preis": "2.5",
         "uhrzeit": "16:29:10"
+    },
+    {
+        "sache": "Pizza (andere)",
+        "menge": "1",
+        "preis": "2.5",
+        "uhrzeit": "16:29:45"
     }
 ]
