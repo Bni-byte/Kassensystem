@@ -238,5 +238,17 @@
         "menge": "1",
         "preis": "2",
         "uhrzeit": "14:59:49"
+    },
+    {
+        "sache": "Sprite",
+        "menge": "2",
+        "preis": "2",
+        "uhrzeit": "14:59:58"
+    },
+    {
+        "sache": "Waffeln (Puderzucker)",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "14:59:58"
     }
 ]
