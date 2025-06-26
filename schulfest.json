@@ -2278,5 +2278,17 @@
         "menge": "1",
         "preis": "2.5",
         "uhrzeit": "16:12:21"
+    },
+    {
+        "sache": "grüne Brause",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "16:12:25"
+    },
+    {
+        "sache": "Fanta",
+        "menge": "1",
+        "preis": "2",
+        "uhrzeit": "16:12:25"
     }
 ]
